@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Course Selection</string>
+    <string name="strUsername">Username:</string>
+    <string name="strPassword">Password:</string>
+    <string name="strLogin">Login</string>
+    <string name="strSuccess">SUCCESS!</string>
+    <string name="strFailedLogin">Invalid username and/or password, please try again.</string>
+    <string name="strInvalidCreds">Invalid credentials, please try again.</string>
+    <string name="strLogout">Logout</string>
+</resources>
