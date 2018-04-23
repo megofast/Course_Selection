@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     // The user entered both a username and password, compare to login credentials
                     if (inputName.equalsIgnoreCase("dave") && inputPassword.equals("password")) {
-                        startActivity(new Intent(MainActivity.this, landing.class));
+                        startActivity(new Intent(MainActivity.this, ClassList.class));
                     } else {
                         // Invalid credentials, alert the user via toast
                         Toast.makeText(MainActivity.this, R.string.strInvalidCreds, Toast.LENGTH_LONG).show();

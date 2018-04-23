@@ -7,4 +7,36 @@
     <string name="strFailedLogin">Invalid username and/or password, please try again.</string>
     <string name="strInvalidCreds">Invalid credentials, please try again.</string>
     <string name="strLogout">Logout</string>
+    <string name="strFirst">First Name</string>
+    <string name="strLast">Last Name</string>
+    <string name="strPhone">Phone</string>
+    <string name="strDOB">Date of Birth</string>
+    <string name="strCert">Certificate</string>
+    <string name="strAssoc">Associates Degree</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="btnNext">Next</string>
+    <string name="strMajor">Major</string>
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="programs">
+        <item>Digital Media</item>
+        <item>Mobile Application Development</item>
+        <item>Web Development</item>
+    </string-array>
+    <string-array name="certs">
+        <item>Android Certificate</item>
+        <item>ios Mobile Certificate</item>
+    </string-array>
 </resources>
