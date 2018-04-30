@@ -69,7 +69,7 @@ public class ClassList extends AppCompatActivity {
                     String dob = month.getSelectedItem().toString() + "/" + day.getText().toString() + "/" + year.getText().toString();
 
                     // Submit the data!
-                    Intent nextScreen = new Intent(ClassList.this, landing.class);
+                    Intent nextScreen = new Intent(ClassList.this, ClassSelectionActivity.class);
                     nextScreen.putExtra("firstName", firstName.getText().toString());
                     nextScreen.putExtra("lastName", lastName.getText().toString());
                     nextScreen.putExtra("phone", phone.getText().toString());

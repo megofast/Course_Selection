@@ -9,13 +9,26 @@
     <string name="strLogout">Logout</string>
     <string name="strFirst">First Name</string>
     <string name="strLast">Last Name</string>
-    <string name="strPhone">Phone</string>
-    <string name="strDOB">Date of Birth</string>
+    <string name="strPhone">Phone:</string>
+    <string name="strDOB">Date of Birth:</string>
     <string name="strCert">Certificate</string>
     <string name="strAssoc">Associates Degree</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="btnNext">Next</string>
-    <string name="strMajor">Major</string>
+    <string name="strMajor">Major:</string>
+    <string name="strSelect">Select your class and time slot:</string>
+    <string name="strClass1">MAD-107: IOS I</string>
+    <string name="strClass2">MAD-155: Android II</string>
+    <string name="strClass3">MAD-157: IOS II</string>
+    <string name="strSched1">T/TH 12:00PM - 1:50PM</string>
+    <string name="strSched2">M/W 10:00AM - 11:50AM</string>
+    <string name="strSched3">T/TH 4:00PM - 5:50PM</string>
+    <string name="strSched4">F 9:00AM - 12:50PM</string>
+    <string name="strSched5">M/W 12:00PM - 1:50PM</string>
+    <string name="strSubmit">Submit</string>
+    <string name="strName">Name:</string>
+    <string name="strDegree">Degree Plan:</string>
+    <string name="strNextYear">Next Semester Summary:</string>
     <string-array name="months">
         <item>Jan</item>
         <item>Feb</item>

@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".landing" />
-        <activity android:name=".ClassList"></activity>
+        <activity android:name=".ClassList" />
+        <activity android:name=".ClassSelectionActivity"></activity>
     </application>
 
 </manifest>
